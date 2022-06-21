@@ -4,7 +4,7 @@ KELOMPOK 05<br>
 Nama Anggota : <br>
     1. Bagas Prambudi<br>
     2. Guntur Bagus Aryoga<br>
-    3. Kissyin Syahbinar
+    3. Kissyin Syahbinar<br>
 Kelas : MI 2C <br>
 Prodi D3-MI<br>
 

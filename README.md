@@ -10,7 +10,7 @@ Prodi D3-MI<br>
 
 ## ScreenShot
 
-Figma<br>
+MockUp<br>
 <span>
     <img src="img/f1.png" width="300">
 </span>

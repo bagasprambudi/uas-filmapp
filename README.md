@@ -6,7 +6,6 @@ Nama Anggota : <br>
     2. Guntur Bagus Aryoga<br>
     3. Kissyin Syahbinar
 Kelas : MI 2C <br>
-Kelas : MI 2C <br>
 Prodi D3-MI<br>
 
 ## ScreenShot

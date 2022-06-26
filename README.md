@@ -41,6 +41,12 @@ Hasil<br>
     <img src="img/h1.png" width="300">
 </span>
 <span>
+    <img src="img/h9.png" width="300">
+</span>
+<span>
+    <img src="img/h10.png" width="300">
+</span>
+<span>
     <img src="img/h2.png" width="300">
 </span>
 <span>
